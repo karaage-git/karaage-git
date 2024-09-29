@@ -6,7 +6,7 @@
 | key | value |
 | :--- | :--- |
 | 名前 | Jun Goto |
-| 年齢 | 32 |
+| 年齢 | 31 |
 | 居住地 | 東京都 |
 | 職業 | Androidエンジニア、Flutterエンジニア見習い |
 | 資格 | 基本情報、応用情報 |
@@ -47,7 +47,7 @@ go_router | Riverpod
 
 
 ### 3社目：株式会社ARIGATOBANK(2021.8〜2022.10)
-arigatobankアプリ（旧名称:kifutown）のAndroidアプリを作成。
+arigatobankアプリ（旧名称:kifutown）のAndroidアプリを作成。</br>
 https://play.google.com/store/apps/details?id=jp.co.arigatobank.kifutown&pcampaignid=web_share
 
 ### 4社目：東急株式会社(2022.11〜)
